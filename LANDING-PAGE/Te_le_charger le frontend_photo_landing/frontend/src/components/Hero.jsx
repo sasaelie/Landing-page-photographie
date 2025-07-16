@@ -1,1 +1,0 @@
-// Hero.jsx - fichier généré pour le frontend landing page
