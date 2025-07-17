@@ -1,1 +1,0 @@
-// reservationModel.js - fichier généré pour le backend photo
